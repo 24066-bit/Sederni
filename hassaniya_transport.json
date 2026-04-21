@@ -1,0 +1,73 @@
+[
+  {
+    "input": "Comment demander où est le taxi en hassaniya ?",
+    "output": "On dit 'taxi mneyn ?'.",
+    "categorie": "transport",
+    "français": "Où est le taxi ?",
+    "hassaniya": "taxi mneyn ?"
+  },
+  {
+    "input": "Comment dire emmène-moi à Tevragh-Zeina en hassaniya ?",
+    "output": "On dit 'guiss biya Tevragh-Zeina mn vadlak'.",
+    "categorie": "transport",
+    "français": "Emmène-moi à Tevragh-Zeina",
+    "hassaniya": "guiss biya Tevragh-Zeina mn vadlak"
+  },
+  {
+    "input": "Comment dire arrête-toi ici en hassaniya ?",
+    "output": "On dit 'wegev houn'.",
+    "categorie": "transport",
+    "français": "Arrête-toi ici",
+    "hassaniya": "wegev houn"
+  },
+  {
+    "input": "Comment demander si c'est loin en hassaniya ?",
+    "output": "On dit 'baiid ?' ou 'hadha baiid ?'.",
+    "categorie": "transport",
+    "français": "C'est loin ?",
+    "hassaniya": "baiid ? / hadha baiid ?"
+  },
+  {
+    "input": "Comment dire tourne à gauche ou à droite en hassaniya ?",
+    "output": "On dit 'verri à gauche' ou 'verri à droite'.",
+    "categorie": "transport",
+    "français": "Tourne à gauche / droite",
+    "hassaniya": "verri à gauche / verri à droite"
+  },
+  {
+    "input": "Comment dire tout droit en hassaniya ?",
+    "output": "On dit 'lgdam'.",
+    "categorie": "transport",
+    "français": "Tout droit",
+    "hassaniya": "lgdam"
+  },
+  {
+    "input": "Comment dire attends-moi en hassaniya ?",
+    "output": "On dit 'hanini'.",
+    "categorie": "transport",
+    "français": "Attends-moi",
+    "hassaniya": "hanini"
+  },
+  {
+    "input": "Comment dire je suis perdu en hassaniya ?",
+    "output": "On dit 'ane wghoudt' ou 'ane matyt msstehdya'.",
+    "categorie": "transport",
+    "français": "Je suis perdu(e)",
+    "hassaniya": "ane wghoudt / ane matyt msstehdya"
+  },
+  {
+    "input": "Comment demander d'appeler un taxi en hassaniya ?",
+    "output": "On dit 'telvenli Ala taxi'.",
+    "categorie": "transport",
+    "français": "Appelle-moi un taxi",
+    "hassaniya": "telvenli Ala taxi",
+    "note_culturelle": "À Nouakchott, ClassRide (1122) est l'équivalent d'Uber"
+  },
+  {
+    "input": "Comment demander le prix d'une course en hassaniya ?",
+    "output": "On dit 'hadha bkem ?'.",
+    "categorie": "transport",
+    "français": "Combien pour aller à... ?",
+    "hassaniya": "hadha bkem ?"
+  }
+]

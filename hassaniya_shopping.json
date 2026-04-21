@@ -1,0 +1,73 @@
+[
+  {
+    "input": "Comment dire c'est trop cher en hassaniya ?",
+    "output": "On dit 'hadha waair hatte'.",
+    "categorie": "shopping",
+    "français": "C'est trop cher",
+    "hassaniya": "hadha waair hatte"
+  },
+  {
+    "input": "Comment demander une réduction en hassaniya ?",
+    "output": "On dit 'hewenli'.",
+    "categorie": "shopping",
+    "français": "Fais-moi un prix",
+    "hassaniya": "hewenli",
+    "note_culturelle": "La négociation est normale dans les marchés mauritaniens"
+  },
+  {
+    "input": "Comment dire je prends celui-là en hassaniya ?",
+    "output": "On dit 'ndor hadha'.",
+    "categorie": "shopping",
+    "français": "Je prends celui-là",
+    "hassaniya": "ndor hadha"
+  },
+  {
+    "input": "Comment dire je ne veux pas en hassaniya ?",
+    "output": "On dit 'mandorou'.",
+    "categorie": "shopping",
+    "français": "Je ne veux pas",
+    "hassaniya": "mandorou"
+  },
+  {
+    "input": "Comment demander si un vendeur a quelque chose en hassaniya ?",
+    "output": "On dit 'andkoum ?'.",
+    "categorie": "shopping",
+    "français": "Avez-vous... ?",
+    "hassaniya": "andkoum ?"
+  },
+  {
+    "input": "Comment demander s'il y a d'autres articles en hassaniya ?",
+    "output": "On dit 'andkoum wahdeyn khrayn ?'.",
+    "categorie": "shopping",
+    "français": "En avez-vous d'autres ?",
+    "hassaniya": "andkoum wahdeyn khrayn ?"
+  },
+  {
+    "input": "Comment dire c'est pour offrir en hassaniya ?",
+    "output": "On dit 'hadha kadou'.",
+    "categorie": "shopping",
+    "français": "C'est pour offrir",
+    "hassaniya": "hadha kadou"
+  },
+  {
+    "input": "Comment demander la taille en hassaniya ?",
+    "output": "On dit 'hajem kem ?'.",
+    "categorie": "shopping",
+    "français": "C'est quelle taille ?",
+    "hassaniya": "hajem kem ?"
+  },
+  {
+    "input": "Comment dire je regarde juste en hassaniya ?",
+    "output": "On dit 'ane la netneymesh'.",
+    "categorie": "shopping",
+    "français": "Je regarde juste",
+    "hassaniya": "ane la netneymesh"
+  },
+  {
+    "input": "Comment demander à emballer en hassaniya ?",
+    "output": "On dit 'tged tghalvou ?'.",
+    "categorie": "shopping",
+    "français": "Pouvez-vous emballer ?",
+    "hassaniya": "tged tghalvou ?"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "input": "Comment dire bonjour le matin en hassaniya ?",
+    "output": "On dit 'sbah lkhayr'. La personne répond aussi 'sbah lkhayr' ou 'sbah nour' (matin de lumière).",
+    "categorie": "salutation",
+    "français": "Bonjour (matin)",
+    "hassaniya": "sbah lkhayr",
+    "reponse_hassaniya": "sbah lkhayr / sbah nour"
+  },
+  {
+    "input": "Comment dire bonsoir en hassaniya ?",
+    "output": "On dit 'leyltak saiide' (que ta nuit soit heureuse). La réponse est aussi 'leyltak saiide' ou simplement 'shoukran'.",
+    "categorie": "salutation",
+    "français": "Bonsoir",
+    "hassaniya": "leyltak saiide",
+    "reponse_hassaniya": "leyltak saiide / shoukran"
+  },
+  {
+    "input": "Comment demander comment tu vas en hassaniya ?",
+    "output": "On dit 'sh-halak ?' pour demander comment tu vas. La réponse naturelle est 'lebass'.",
+    "categorie": "salutation",
+    "français": "Comment tu vas ?",
+    "hassaniya": "sh-halak ?",
+    "reponse_hassaniya": "lebass"
+  },
+  {
+    "input": "Comment dire je vais bien en hassaniya ?",
+    "output": "On dit 'lebass' pour dire que ça va bien.",
+    "categorie": "salutation",
+    "français": "Je vais bien",
+    "hassaniya": "lebass"
+  },
+  {
+    "input": "Comment dire bienvenue en hassaniya ?",
+    "output": "On dit 'yaa merhba w sehla'. La personne accueillie répond 'wennibik'.",
+    "categorie": "salutation",
+    "français": "Bienvenue",
+    "hassaniya": "yaa merhba w sehla",
+    "reponse_hassaniya": "wennibik"
+  },
+  {
+    "input": "Comment dire au revoir en hassaniya ?",
+    "output": "On dit 'wedaatak lmoulana' (je te confie à Dieu).",
+    "categorie": "salutation",
+    "français": "Au revoir",
+    "hassaniya": "wedaatak lmoulana"
+  },
+  {
+    "input": "Comment dire à bientôt en hassaniya ?",
+    "output": "On dit 'maaselam'.",
+    "categorie": "salutation",
+    "français": "À bientôt",
+    "hassaniya": "maaselam"
+  },
+  {
+    "input": "Comment dire merci beaucoup en hassaniya ?",
+    "output": "On dit 'jezake llahou khayran'. La réponse est 'merhba'.",
+    "categorie": "salutation",
+    "français": "Merci beaucoup",
+    "hassaniya": "jezake llahou khayran",
+    "reponse_hassaniya": "merhba"
+  },
+  {
+    "input": "Comment dire merci en hassaniya ?",
+    "output": "On dit 'shoukran' pour un merci simple.",
+    "categorie": "salutation",
+    "français": "Merci",
+    "hassaniya": "shoukran"
+  },
+  {
+    "input": "Comment dire s'il te plaît en hassaniya ?",
+    "output": "On dit 'hagallah'.",
+    "categorie": "salutation",
+    "français": "S'il te plaît",
+    "hassaniya": "hagallah"
+  },
+  {
+    "input": "Comment dire excuse-moi en hassaniya ?",
+    "output": "On dit 'smah-li' ou 'avwen'.",
+    "categorie": "salutation",
+    "français": "Excuse-moi",
+    "hassaniya": "smah-li / avwen"
+  },
+  {
+    "input": "Comment demander où est quelque chose en hassaniya ?",
+    "output": "On dit 'mneyn ?' pour demander où.",
+    "categorie": "pratique_touriste",
+    "français": "Où est... ?",
+    "hassaniya": "mneyn ?"
+  },
+  {
+    "input": "Comment dire je ne comprends pas en hassaniya ?",
+    "output": "On dit 'mafhemt' ou 'mafhemtak' (je ne te comprends pas).",
+    "categorie": "pratique_touriste",
+    "français": "Je ne comprends pas",
+    "hassaniya": "mafhemt / mafhemtak"
+  },
+  {
+    "input": "Comment demander de parler plus lentement en hassaniya ?",
+    "output": "On dit 'tkelem bshor mn vadlak'.",
+    "categorie": "pratique_touriste",
+    "français": "Parle plus lentement",
+    "hassaniya": "tkelem bshor mn vadlak"
+  },
+  {
+    "input": "Comment demander le prix en hassaniya ?",
+    "output": "On dit 'bkem ?' ou 'hadha bkem ?'.",
+    "categorie": "pratique_touriste",
+    "français": "Combien ça coûte ?",
+    "hassaniya": "bkem ? / hadha bkem ?"
+  },
+  {
+    "input": "Comment dire c'est beau en hassaniya ?",
+    "output": "On dit 'zeyn' ou 'hadha zeyn'.",
+    "categorie": "pratique_touriste",
+    "français": "C'est beau !",
+    "hassaniya": "zeyn / hadha zeyn"
+  }
+]

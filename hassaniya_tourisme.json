@@ -1,0 +1,73 @@
+[
+  {
+    "input": "Comment dire je veux visiter la mosquée en hassaniya ?",
+    "output": "On dit 'ndor ngiss lmzid'.",
+    "categorie": "tourisme",
+    "français": "Je veux visiter la mosquée",
+    "hassaniya": "ndor ngiss lmzid"
+  },
+  {
+    "input": "Comment demander si c'est ouvert en hassaniya ?",
+    "output": "On dit 'mevtouh lywm ?'.",
+    "categorie": "tourisme",
+    "français": "C'est ouvert aujourd'hui ?",
+    "hassaniya": "mevtouh lywm ?"
+  },
+  {
+    "input": "Comment demander à quelle heure ça ferme en hassaniya ?",
+    "output": "On dit 'yegval eynta ?'.",
+    "categorie": "tourisme",
+    "français": "À quelle heure ça ferme ?",
+    "hassaniya": "yegval eynta ?"
+  },
+  {
+    "input": "Comment demander si c'est payant en hassaniya ?",
+    "output": "On dit 'dkhoul youkhalass ?'.",
+    "categorie": "tourisme",
+    "français": "Il faut payer pour entrer ?",
+    "hassaniya": "dkhoul youkhalass ?"
+  },
+  {
+    "input": "Comment demander où acheter des souvenirs en hassaniya ?",
+    "output": "On dit 'mneyn nged neshri des souvenirs ?'.",
+    "categorie": "tourisme",
+    "français": "Où acheter des souvenirs ?",
+    "hassaniya": "mneyn nged neshri des souvenirs ?"
+  },
+  {
+    "input": "Comment demander une recommandation en hassaniya ?",
+    "output": "On dit 'tged teghtarah aliya shi ?'.",
+    "categorie": "tourisme",
+    "français": "Recommandez-moi quelque chose",
+    "hassaniya": "tged teghtarah aliya shi ?"
+  },
+  {
+    "input": "Comment demander si c'est loin à pied en hassaniya ?",
+    "output": "On dit 'baiid ala lkariin ?'.",
+    "categorie": "tourisme",
+    "français": "C'est loin à pied ?",
+    "hassaniya": "baiid ala lkariin ?"
+  },
+  {
+    "input": "Comment dire je veux aller à la plage en hassaniya ?",
+    "output": "On dit 'ndor ngiss lbhar'.",
+    "categorie": "tourisme",
+    "français": "Je veux aller à la plage",
+    "hassaniya": "ndor ngiss lbhar",
+    "note_culturelle": "Plage des Sultanes : +222 44 33 22 53"
+  },
+  {
+    "input": "Comment demander où voir le coucher de soleil en hassaniya ?",
+    "output": "On dit 'mneyn nged nshov shourough shemss ?'.",
+    "categorie": "tourisme",
+    "français": "Où voir le coucher de soleil ?",
+    "hassaniya": "mneyn nged nshov shourough shemss ?"
+  },
+  {
+    "input": "Comment demander la meilleure période pour visiter en hassaniya ?",
+    "output": "On dit 'thi ezyen vetra lezyara ?'.",
+    "categorie": "tourisme",
+    "français": "Meilleure période pour visiter ?",
+    "hassaniya": "thi ezyen vetra lezyara ?"
+  }
+]

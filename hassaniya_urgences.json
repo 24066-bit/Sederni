@@ -1,0 +1,74 @@
+[
+  {
+    "input": "Comment crier au secours en hassaniya ?",
+    "output": "On crie 'lehgouni !'.",
+    "categorie": "urgences",
+    "français": "Au secours !",
+    "hassaniya": "lehgouni !",
+    "note_culturelle": "Numéro de police en Mauritanie : 17"
+  },
+  {
+    "input": "Comment dire appelez la police en hassaniya ?",
+    "output": "On dit 'telvnoul police'. Numéro : 17.",
+    "categorie": "urgences",
+    "français": "Appelez la police",
+    "hassaniya": "telvnoul police"
+  },
+  {
+    "input": "Comment dire j'ai besoin d'un médecin en hassaniya ?",
+    "output": "On dit 'ane ndor Tabib'.",
+    "categorie": "urgences",
+    "français": "J'ai besoin d'un médecin",
+    "hassaniya": "ane ndor Tabib"
+  },
+  {
+    "input": "Comment dire j'ai mal ici en hassaniya ?",
+    "output": "On dit 'yojaani hun' en pointant l'endroit.",
+    "categorie": "urgences",
+    "français": "J'ai mal ici",
+    "hassaniya": "yojaani hun"
+  },
+  {
+    "input": "Comment dire je suis allergique en hassaniya ?",
+    "output": "On dit 'ane via hasassiya min...'.",
+    "categorie": "urgences",
+    "français": "Je suis allergique à...",
+    "hassaniya": "ane via hasassiya min..."
+  },
+  {
+    "input": "Comment demander où est l'hôpital en hassaniya ?",
+    "output": "On dit 'Tab mneyn ?'.",
+    "categorie": "urgences",
+    "français": "Où est l'hôpital ?",
+    "hassaniya": "Tab mneyn ?"
+  },
+  {
+    "input": "Comment dire j'ai perdu mon passeport en hassaniya ?",
+    "output": "On dit 'wghoud Aliya passpori'.",
+    "categorie": "urgences",
+    "français": "J'ai perdu mon passeport",
+    "hassaniya": "wghoud Aliya passpori"
+  },
+  {
+    "input": "Comment dire appelez une ambulance en hassaniya ?",
+    "output": "On dit 'telvnoul Ambulance'. SAMU : 101.",
+    "categorie": "urgences",
+    "français": "Appelez une ambulance",
+    "hassaniya": "telvnoul Ambulance",
+    "note_culturelle": "SAMU : 101 | Pompiers : 18"
+  },
+  {
+    "input": "Comment dire je me suis fait voler en hassaniya ?",
+    "output": "On dit 'sargou Aliya'.",
+    "categorie": "urgences",
+    "français": "Je me suis fait voler",
+    "hassaniya": "sargou Aliya"
+  },
+  {
+    "input": "Comment dire j'ai de la fièvre en hassaniya ?",
+    "output": "On dit 'aliya lhima'.",
+    "categorie": "urgences",
+    "français": "J'ai de la fièvre",
+    "hassaniya": "aliya lhima"
+  }
+]

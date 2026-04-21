@@ -1,0 +1,73 @@
+[
+  {
+    "input": "Quels sont les chiffres de 1 à 10 en hassaniya ?",
+    "output": "1=wahd, 2=thneyn, 3=thlathe, 4=rbaa, 5=khamsse, 6=sita, 7=sabaa, 8=thmanya, 9=tessaa, 10=ashra.",
+    "categorie": "chiffres",
+    "français": "Chiffres 1 à 10",
+    "hassaniya": "wahd thneyn thlathe rbaa khamsse sita sabaa thmanya tessaa ashra"
+  },
+  {
+    "input": "Comment dire 20, 50, 100, 500, 1000 en hassaniya ?",
+    "output": "20=eshrin, 50=khamsin, 100=miye, 500=khamessmiya, 1000=elv.",
+    "categorie": "chiffres",
+    "français": "20 50 100 500 1000",
+    "hassaniya": "eshrin khamsin miye khamessmiya elv"
+  },
+  {
+    "input": "Comment dire c'est trop cher ou juste prix en hassaniya ?",
+    "output": "Trop cher : 'hathe yassr'. Bon prix : 'the gbal'.",
+    "categorie": "transactions",
+    "français": "C'est trop / bon prix",
+    "hassaniya": "hathe yassr / the gbal"
+  },
+  {
+    "input": "Comment dire je n'ai pas de monnaie en hassaniya ?",
+    "output": "On dit 'maandi lvatha'.",
+    "categorie": "transactions",
+    "français": "Je n'ai pas de monnaie",
+    "hassaniya": "maandi lvatha"
+  },
+  {
+    "input": "Comment demander la monnaie en hassaniya ?",
+    "output": "On dit 'andek degdig elv ?'.",
+    "categorie": "transactions",
+    "français": "Avez-vous la monnaie de 1000 ?",
+    "hassaniya": "andek degdig elv ?"
+  },
+  {
+    "input": "Comment dire c'est gratuit en hassaniya ?",
+    "output": "On dit 'hathe cadou ?'.",
+    "categorie": "transactions",
+    "français": "C'est gratuit ?",
+    "hassaniya": "hathe cadou ?"
+  },
+  {
+    "input": "Comment dire je paie par Bankily en hassaniya ?",
+    "output": "On dit 'lahi nkhalass b Bankily'.",
+    "categorie": "transactions",
+    "français": "Je paie par Bankily",
+    "hassaniya": "lahi nkhalass b Bankily",
+    "note_culturelle": "Bankily : app BPM, USSD *888#"
+  },
+  {
+    "input": "Comment demander un reçu en hassaniya ?",
+    "output": "On dit 'adini reçu'.",
+    "categorie": "transactions",
+    "français": "Donnez-moi un reçu",
+    "hassaniya": "adini reçu"
+  },
+  {
+    "input": "Comment dire je reviendrai demain en hassaniya ?",
+    "output": "On dit 'ndor nerjaa sebh inshAllah'.",
+    "categorie": "transactions",
+    "français": "Je reviendrai demain",
+    "hassaniya": "ndor nerjaa sebh inshAllah"
+  },
+  {
+    "input": "Comment dire c'est une bonne affaire en hassaniya ?",
+    "output": "On dit 'zeyn'.",
+    "categorie": "transactions",
+    "français": "C'est une bonne affaire !",
+    "hassaniya": "zeyn"
+  }
+]

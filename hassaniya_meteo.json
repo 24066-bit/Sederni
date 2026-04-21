@@ -1,0 +1,72 @@
+[
+  {
+    "input": "Comment dire il fait chaud en hassaniya ?",
+    "output": "On dit 'lhouman'.",
+    "categorie": "meteo",
+    "français": "Il fait chaud",
+    "hassaniya": "lhouman"
+  },
+  {
+    "input": "Comment dire il fait froid en hassaniya ?",
+    "output": "On dit 'lberd'.",
+    "categorie": "meteo",
+    "français": "Il fait froid",
+    "hassaniya": "lberd"
+  },
+  {
+    "input": "Comment dire il y a du vent en hassaniya ?",
+    "output": "On dit 'leryah'. Nouakchott signifie 'la ville des vents'.",
+    "categorie": "meteo",
+    "français": "Il y a du vent",
+    "hassaniya": "leryah"
+  },
+  {
+    "input": "Comment dire tempête de sable en hassaniya ?",
+    "output": "On dit 'jriha'.",
+    "categorie": "meteo",
+    "français": "Tempête de sable",
+    "hassaniya": "jriha"
+  },
+  {
+    "input": "Comment dire la mer est agitée en hassaniya ?",
+    "output": "On dit 'lbhar hayej'.",
+    "categorie": "meteo",
+    "français": "La mer est agitée",
+    "hassaniya": "lbhar hayej"
+  },
+  {
+    "input": "Comment dire c'est une belle journée en hassaniya ?",
+    "output": "On dit 'nhar zeyn'.",
+    "categorie": "meteo",
+    "français": "C'est une belle journée",
+    "hassaniya": "nhar zeyn"
+  },
+  {
+    "input": "Comment dire il fait nuit en hassaniya ?",
+    "output": "On dit 'hathe leyl'.",
+    "categorie": "meteo",
+    "français": "Il fait nuit",
+    "hassaniya": "hathe leyl"
+  },
+  {
+    "input": "Comment dire le soleil se lève en hassaniya ?",
+    "output": "On dit 'sebh sbah'.",
+    "categorie": "meteo",
+    "français": "Le soleil se lève",
+    "hassaniya": "sebh sbah"
+  },
+  {
+    "input": "Comment dire le désert est beau en hassaniya ?",
+    "output": "On dit 'lbadiye zeyna'.",
+    "categorie": "meteo",
+    "français": "Le désert est beau",
+    "hassaniya": "lbadiye zeyna"
+  },
+  {
+    "input": "Comment demander la météo de demain en hassaniya ?",
+    "output": "On dit 'jew shlahi youd kivou sebh ?'.",
+    "categorie": "meteo",
+    "français": "Météo demain ?",
+    "hassaniya": "jew shlahi youd kivou sebh ?"
+  }
+]

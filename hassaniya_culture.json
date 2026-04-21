@@ -1,0 +1,75 @@
+[
+  {
+    "input": "Comment demander si quelqu'un parle hassaniya ?",
+    "output": "On dit 'tetkelem blhassaniya ?'.",
+    "categorie": "culture",
+    "français": "Tu parles hassaniya ?",
+    "hassaniya": "tetkelem blhassaniya ?"
+  },
+  {
+    "input": "Comment dire je suis touriste en hassaniya ?",
+    "output": "On dit 'ane sayih'.",
+    "categorie": "culture",
+    "français": "Je suis touriste",
+    "hassaniya": "ane sayih"
+  },
+  {
+    "input": "Comment dire je viens de France en hassaniya ?",
+    "output": "On dit 'ane jay mn France'.",
+    "categorie": "culture",
+    "français": "Je viens de France",
+    "hassaniya": "ane jay mn France"
+  },
+  {
+    "input": "Comment dire j'aime la Mauritanie en hassaniya ?",
+    "output": "On dit 'nbghi mouritan'.",
+    "categorie": "culture",
+    "français": "J'aime la Mauritanie",
+    "hassaniya": "nbghi mouritan"
+  },
+  {
+    "input": "Comment dire c'est ma première fois ici en hassaniya ?",
+    "output": "On dit 'Marti lewle hun'.",
+    "categorie": "culture",
+    "français": "C'est ma première fois ici",
+    "hassaniya": "Marti lewle hun"
+  },
+  {
+    "input": "Comment demander la permission de prendre une photo en hassaniya ?",
+    "output": "On dit 'nged negbadh Noura ?'.",
+    "categorie": "culture",
+    "français": "Puis-je prendre une photo ?",
+    "hassaniya": "nged negbadh Noura ?",
+    "note_culturelle": "Toujours demander la permission avant de photographier"
+  },
+  {
+    "input": "Comment inviter à prendre le thé en hassaniya ?",
+    "output": "On dit 'nadini Ala étay'.",
+    "categorie": "culture",
+    "français": "Invite-moi à prendre le thé",
+    "hassaniya": "nadini Ala étay",
+    "note_culturelle": "La nedwiya (cérémonie du thé) est un rituel social incontournable"
+  },
+  {
+    "input": "Comment dit-on thé en hassaniya ?",
+    "output": "Le thé se dit 'étay', la cérémonie se dit 'nedwiya'.",
+    "categorie": "culture",
+    "français": "Le thé / cérémonie du thé",
+    "hassaniya": "étay / nedwiya",
+    "note_culturelle": "3 tournées : amère, douce, très sucrée"
+  },
+  {
+    "input": "Comment demander le nom d'un endroit en hassaniya ?",
+    "output": "On dit 'thi lebleyda essmha ?'.",
+    "categorie": "culture",
+    "français": "Comment s'appelle cet endroit ?",
+    "hassaniya": "thi lebleyda essmha ?"
+  },
+  {
+    "input": "Comment dire c'est magnifique en hassaniya ?",
+    "output": "On dit 'hathe zeyn hatt'.",
+    "categorie": "culture",
+    "français": "C'est magnifique !",
+    "hassaniya": "hathe zeyn hatt"
+  }
+]

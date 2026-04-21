@@ -1,0 +1,72 @@
+[
+  {
+    "input": "Comment dire j'ai une réservation en hassaniya ?",
+    "output": "On dit 'andi miaad'.",
+    "categorie": "logement",
+    "français": "J'ai une réservation",
+    "hassaniya": "andi miaad"
+  },
+  {
+    "input": "Comment demander une chambre en hassaniya ?",
+    "output": "On dit 'beyt leregaj' (une personne) ou 'beyt leregajeyn' (deux personnes).",
+    "categorie": "logement",
+    "français": "Une chambre pour une/deux personnes",
+    "hassaniya": "beyt leregaj / beyt leregajeyn"
+  },
+  {
+    "input": "Comment demander le prix de la nuit en hassaniya ?",
+    "output": "On dit 'bkem leyle ?'.",
+    "categorie": "logement",
+    "français": "C'est combien la nuit ?",
+    "hassaniya": "bkem leyle ?"
+  },
+  {
+    "input": "Comment demander si le petit déjeuner est inclus en hassaniya ?",
+    "output": "On dit 'vih sbouh ?'.",
+    "categorie": "logement",
+    "français": "Le petit déjeuner est inclus ?",
+    "hassaniya": "vih sbouh ?"
+  },
+  {
+    "input": "Comment demander le Wi-Fi en hassaniya ?",
+    "output": "On dit 'Wi-Fi mneyn ?'.",
+    "categorie": "logement",
+    "français": "Où est le Wi-Fi ?",
+    "hassaniya": "Wi-Fi mneyn ?"
+  },
+  {
+    "input": "Comment demander la clé en hassaniya ?",
+    "output": "On dit 'mvatih lbeyt mn vadlak'.",
+    "categorie": "logement",
+    "français": "La clé de ma chambre",
+    "hassaniya": "mvatih lbeyt mn vadlak"
+  },
+  {
+    "input": "Comment dire la chambre est trop froide ou chaude en hassaniya ?",
+    "output": "On dit 'lbeyt bard hatt' ou 'lbeyt hami hatt'.",
+    "categorie": "logement",
+    "français": "La chambre est trop froide/chaude",
+    "hassaniya": "lbeyt bard hatt / lbeyt hami hatt"
+  },
+  {
+    "input": "Comment dire pas d'eau chaude en hassaniya ?",
+    "output": "On dit 'meyha hamya mahi khalgue'.",
+    "categorie": "logement",
+    "français": "Il n'y a pas d'eau chaude",
+    "hassaniya": "meyha hamya mahi khalgue"
+  },
+  {
+    "input": "Comment dire je veux changer de chambre en hassaniya ?",
+    "output": "On dit 'ndor nbedel beyti'.",
+    "categorie": "logement",
+    "français": "Je veux changer de chambre",
+    "hassaniya": "ndor nbedel beyti"
+  },
+  {
+    "input": "Comment demander l'heure du check-out en hassaniya ?",
+    "output": "On dit 'loukhidh eynta ?'.",
+    "categorie": "logement",
+    "français": "À quelle heure le check-out ?",
+    "hassaniya": "loukhidh eynta ?"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "input": "Comment dire j'ai faim en hassaniya ?",
+    "output": "On dit 'ane jiaane' ou 'thamrane'.",
+    "categorie": "restaurant",
+    "français": "J'ai faim",
+    "hassaniya": "ane jiaane / thamrane"
+  },
+  {
+    "input": "Comment dire j'ai soif en hassaniya ?",
+    "output": "On dit 'ane adshane'.",
+    "categorie": "restaurant",
+    "français": "J'ai soif",
+    "hassaniya": "ane adshane"
+  },
+  {
+    "input": "Comment demander une table pour deux en hassaniya ?",
+    "output": "On dit 'tabla leregajeyn'.",
+    "categorie": "restaurant",
+    "français": "Une table pour deux",
+    "hassaniya": "tabla leregajeyn"
+  },
+  {
+    "input": "Comment demander le menu en hassaniya ?",
+    "output": "On dit 'menu mnvadlak'.",
+    "categorie": "restaurant",
+    "français": "Le menu s'il te plaît",
+    "hassaniya": "menu mnvadlak"
+  },
+  {
+    "input": "Comment commander du thiéboudienne en hassaniya ?",
+    "output": "On dit 'ndor thiéboudienne mn vadlak'.",
+    "categorie": "restaurant",
+    "français": "Je voudrais du thiéboudienne",
+    "hassaniya": "ndor thiéboudienne mn vadlak"
+  },
+  {
+    "input": "Comment dire c'est délicieux en hassaniya ?",
+    "output": "On dit 'hadha hlou'.",
+    "categorie": "restaurant",
+    "français": "C'est délicieux !",
+    "hassaniya": "hadha hlou"
+  },
+  {
+    "input": "Comment demander l'addition en hassaniya ?",
+    "output": "On dit 'lkhlass mn vadlak' ou 'lkhlass mn vadlkoum' (plus respectueux).",
+    "categorie": "restaurant",
+    "français": "L'addition",
+    "hassaniya": "lkhlass mn vadlak / lkhlass mn vadlkoum",
+    "note_culturelle": "mn vadlkoum est plus respectueux que mn vadlak"
+  },
+  {
+    "input": "Comment dire je ne mange pas de viande en hassaniya ?",
+    "output": "On dit 'ana manokel lham'.",
+    "categorie": "restaurant",
+    "français": "Je ne mange pas de viande",
+    "hassaniya": "ana manokel lham"
+  },
+  {
+    "input": "Comment demander de l'eau en hassaniya ?",
+    "output": "On dit 'meyha mn vadlak' ou 'meyha mn vadlkoum'.",
+    "categorie": "restaurant",
+    "français": "De l'eau s'il te plaît",
+    "hassaniya": "meyha mn vadlak / meyha mn vadlkoum"
+  },
+  {
+    "input": "Comment dire c'est trop épicé en hassaniya ?",
+    "output": "On dit 'hadha hamedh'.",
+    "categorie": "restaurant",
+    "français": "C'est trop épicé",
+    "hassaniya": "hadha hamedh"
+  }
+]
